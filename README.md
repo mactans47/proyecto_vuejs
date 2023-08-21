@@ -1,12 +1,12 @@
 # proyecto_vuejs
 
 ### El proyecto con el directorio node_modules incluido se encuentra disponible en:
-# https://drive.google.com/drive/folders/1rIq4jYgQ1YBKzPC4mepSLSokT6RPcrUj?usp=sharing
+https://drive.google.com/drive/folders/1rIq4jYgQ1YBKzPC4mepSLSokT6RPcrUj?usp=sharing
 
 ### json-server run
 json-server --watch db.json
 
-## Project setup
+### Project setup
 npm install
 
 ### Compiles and hot-reloads for development
