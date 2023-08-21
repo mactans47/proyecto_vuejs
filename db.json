@@ -1,0 +1,90 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "producción"
+    },
+    {
+      "id": 2,
+      "name": "finanzas"
+    },
+    {
+      "id": 3,
+      "name": "contabilidad",
+      "placa": "3"
+    },
+    {
+      "id": 4,
+      "name": "gerencia",
+      "placa": "4"
+    },
+    {
+      "id": "5",
+      "name": "servicio"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "automóvil"
+    },
+    {
+      "id": 2,
+      "name": "moto"
+    },
+    {
+      "id": "3",
+      "name": "triciclo"
+    }
+  ],
+  "employees": [
+    {
+      "name": " vicente morales",
+      "areasId": 2,
+      "typesId": 1,
+      "color": "rojo",
+      "placa": " 12345",
+      "id": 4
+    },
+    {
+      "name": "rolando",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "vee",
+      "placa": "123",
+      "id": 6
+    },
+    {
+      "name": "raul",
+      "areasId": "1",
+      "typesId": 1,
+      "color": "negro",
+      "placa": "123",
+      "id": 7
+    },
+    {
+      "name": "MARCO ANTONIO CANEDO",
+      "areasId": 2,
+      "typesId": 1,
+      "color": "rOJO",
+      "placa": "1234hgf",
+      "id": 10
+    },
+    {
+      "name": "Antonio Canedo",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "Negro",
+      "placa": "BSA-235",
+      "id": 11
+    },
+    {
+      "name": "Antony Flores",
+      "areasId": 2,
+      "typesId": 1,
+      "color": "Rojo",
+      "placa": "ASD568",
+      "id": 12
+    }
+  ]
+}
